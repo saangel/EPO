@@ -12,5 +12,5 @@ Finalmente, se adjunta el código de Python con el que estas figuras fueron prod
 
 Material complementario:
 
-https://es.wikipedia.org/wiki/Diagrama_de_Hertzsprung-Russell
-http://hubblesite.org/video/647/news
+- https://es.wikipedia.org/wiki/Diagrama_de_Hertzsprung-Russell
+- http://hubblesite.org/video/647/news
