@@ -1,4 +1,4 @@
-Diagrama Color-Magnitud para niños
+Diagrama Color-Magnitud para infantes
 
 El diagrama color-magnitud es una de las herramientas más poderosas de astronomía, permitiendo aislar estrellas de distintas poblaciones, estudiar la evolución estelar en sus distintas etapas, etc. 
 
@@ -14,3 +14,5 @@ Material complementario:
 
 - https://es.wikipedia.org/wiki/Diagrama_de_Hertzsprung-Russell
 - http://hubblesite.org/video/647/news
+
+Material generado originalmente para el taller "El fantástico ciclo de vida de las estrellas", programa Pequeños Científicos, Penta UC, http://www.pentauc.cl/2018/06/%c2%a1ultimos-cupos-programa-pequenos-cientificos/
