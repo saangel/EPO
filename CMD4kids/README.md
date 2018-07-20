@@ -1,4 +1,3 @@
-# EPO
 CMD for kids / Diagrama Color-Magnitud para niños
 
 El diagrama color-magnitud es una de las herramientas más poderosas de astronomía, permitiendo aislar estrellas de distintas poblaciones, estudiar la evolución estelar en sus distintas etapas, etc. 
